@@ -1,0 +1,17 @@
+Project Title: Road Lane Detection by Processing Video
+Project Level: Golden Level
+Internship Domain: Artificial Intelligence
+Technologies Used: Python, OpenCV
+Duration: 03 May 2025 – 03 Jun 2025
+
+Project Overview:
+This project creates a computer vision system that detects and highlights road lanes in real-time video. It is designed to aid autonomous driving or driver assistance systems using image processing and Hough Transform techniques.
+
+Key Features:
+- Canny edge detection
+- Region of interest masking
+- Hough Line Transform for lane detection
+- Real-time frame-by-frame video processing
+
+Outcome:
+Practical experience with video analysis and computer vision, with applications in autonomous vehicles and smart navigation.
